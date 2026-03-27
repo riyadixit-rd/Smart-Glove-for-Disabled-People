@@ -37,7 +37,6 @@ This project integrates **IoT, embedded systems, and human-centered design** to 
         │
         ↓
     🔊 Speaker Output
-
 ---
 
 ## ⚙️ Tech Stack
