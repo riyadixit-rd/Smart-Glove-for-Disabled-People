@@ -14,23 +14,27 @@ This project integrates **IoT, embedded systems, and human-centered design** to 
 
 ## 🏗️ System Architecture
 
-      ┌──────────────┐
-      │ Flex Sensors │
-      └──────┬───────┘
-             ↓
+       ┌──────────────┐
+       │ Flex Sensors │
+       └──────┬───────┘
+              │
+              ↓
     ┌──────────────────┐
     │  Microcontroller │
     │    (Arduino)     │
     └──────┬───────────┘
+           │
            ↓
  ┌──────────────────────┐
  │ Gesture Recognition  │
  │   (Threshold Logic)  │
  └──────┬───────────────┘
+        │
         ↓
  ┌──────────────────────┐
  │   DF Mini Player     │
  └──────┬───────────────┘
+        │
         ↓
     🔊 Speaker Output
 
