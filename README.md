@@ -170,7 +170,7 @@ void loop() {
 
 ## 🎓 Academic Context
 
-This project is developed as academic project work at VIT Bhopal University
+This project is developed as an academic project work at VIT Bhopal University
 
 ---
 
